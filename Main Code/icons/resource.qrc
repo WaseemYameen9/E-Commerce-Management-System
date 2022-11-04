@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="dropDown"/>
+  <qresource prefix="logos">
+    <file>add-cart.png</file>
+    <file>Category.png</file>
+    <file>DashBoard.png</file>
+    <file>discount.png</file>
+    <file>downarrow.ico</file>
+    <file>dropDown.png</file>
+    <file>online-shop.png</file>
+    <file>PauseBtn.png</file>
+    <file>playbtn - Copy.png</file>
+    <file>playbtn.png</file>
+    <file>Scraping - Copy.png</file>
+    <file>Scraping.png</file>
+    <file>shopping-cart (1).png</file>
+    <file>signOut - Copy.png</file>
+    <file>signOut.png</file>
+    <file>stopBtn - Copy.png</file>
+    <file>stopBtn.png</file>
+    <file>user.png</file>
+    <file>viewItems - Copy.png</file>
+    <file>viewItems.png</file>
+  </qresource>
+</RCC>
